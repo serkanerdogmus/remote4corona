@@ -186,6 +186,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Veridyen](http://www.veridyen.com/)                       |                | 2+ hafta |
 |     | [Veri Yazılım (KERZZ)](https://www.kerzz.com/)             |                | -       |
 |     | [VeriPark](https://www.veripark.com/)                      | 2020-03-18     | 2+ hafta |
+|     | [viravira.co](http://www.viravira.co/)                     | 2020-03-24     | -       |
 |     | [Vircon](http://www.vircongroup.com/)                      |                | -       |
 |     | [Vivense](https://www.vivense.com)                         |                | 1 hafta |
 |     | [Xenn.io](https://xenn.io/#/)                              |                | 1 hafta |
